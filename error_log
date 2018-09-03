@@ -1,0 +1,2 @@
+[07-Feb-2018 22:20:57 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/modadmin/public_html/wp-content/themes/modarati/functions.php on line 2
+[07-Feb-2018 22:21:03 UTC] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home/modadmin/public_html/wp-content/themes/modarati/functions.php on line 2
